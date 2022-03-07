@@ -1,31 +1,39 @@
-<h2 align="center">👋 Hello! I'm Elpistolero13.</h2>
-<h3> 👨🏻‍💻 &nbsp;About Me</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Elpistolero131" alt="Elpistolero13" /> </p>
-- 📌 ╎ Im Elpistolero13 and i am currently a student who likes to program and do dumb things when bored or free.<br>
-- 🤖 ╎ Currently making discord bots using **Discord.JS V13**, it's <a href="https://www.utilitybot.ga/">Utility Bot</a> a French and English bot.<br>
-- 👷 ╎ It's He / Him
--------
-<h3> 🛠 &nbsp;What I Can Do </h3>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScrip-05122A?style=flat&logo=typescript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<h3> 📎&nbsp;Projects </h3>
+<h2 align="center">👋 Hello! I'm Athul.</h2>
 <p align="center">
-<a href="https://github.com/Elpistolero131/UtilityBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Elpistolero131&repo=UtilityBot&theme=chartreuse-dark"></a>
-  </p>
-  
-<h3> ⚙️&nbsp;GitHub Analytics</h3>
-
-<p align="center">
-<a href="https://github.com/Elpistolero131">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elpistolero131&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Elpistolero131&layout=compact&theme=radical">
-</a>
+  <a href="https://blog.athulcyriac.in">Blog</a> •
+  <a href="https://twitter.com/athulcajay">Twitter</a>
 </p>
+
+
+- 🔭 I’m currently working on **A Platform for Hackathons in Kerala**
+- 🌱 I’m currently learning **Go and Algorithms**
+- 💬 Ask me about **Go, Git and Python**
+- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
+- ⚡ Fun fact: Big Fan of the :zap: emoji
+
+-------
+
+**📝 Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+- [The last 100 days](https://blog.athulcyriac.in/blog/final-year/)
+- [The Sunset Revelation](https://blog.athulcyriac.in/blog/philosphy-2/)
+- [Philosophy Athre Philosophy](https://blog.athulcyriac.in/blog/philosophies/)
+- [The Athul of 2021](https://blog.athulcyriac.in/blog/2021-me/)
+- [Bye K2](https://blog.athulcyriac.in/blog/bye-k2/)
+<!-- BLOG-POST-LIST:END -->
+
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```text
+Go         59 mins         ████████████████▓░░░░░░░░   66.57 %
+Python     20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
+Markdown   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+```
+
+<!--END_SECTION:waka-->
+
+-------
