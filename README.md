@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Elpistolero13.</h2>
+<h2 align="center">👋 Hi, I'm Elpistolero13.</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elpistolero131" alt="Elpistolero13" /> </p>
 
