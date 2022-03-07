@@ -22,7 +22,7 @@
 
 <h3> 📎&nbsp;Projects </h3>
 <p align="center">
-<a href="https://github.com/Elpistolero131/UtilityBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Elpistolero131&repo=UtilityBot&theme=chartreuse-dark"></a>
+<a href="https://github.com/Elpistolero131/UtilityBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Elpistolero131&repo=UtilityBot&theme=radical"></a>
   </p>
 
 -------
@@ -31,7 +31,7 @@
 
 <p align="center">
 <a href="https://github.com/Elpistolero131">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elpistolero131&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elpistolero131&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Elpistolero131&layout=compact&theme=radical">
 </a>
 </p>
