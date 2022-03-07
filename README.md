@@ -1,8 +1,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elpistolero131" alt="Elpistolero13" /> </p>
 📌 ╎ Im Elpistolero13 and i am currently a student who likes to program and do dumb things when bored or free.<br>
-🤖╎ Currently making discord bots using **Discord.JS V13**.<br>
-👷 ╎  He / Him
+🤖╎ Currently making discord bots using **Discord.JS V13**, it's Utility Bot a French and English bot.<br>
+👷 ╎ It's He / Him
 
 ### 🛠 &nbsp;What I Can Do
 
