@@ -6,7 +6,7 @@
  🤖 ╎ Currently making discord bots using **Discord.JS V13**, it's <a href="https://www.utilitybot.ga/">Utility Bot</a> a French and English bot.<br>
  👷 ╎ It's He / Him.<br>
  🇫🇷 ╎ I'm living in France.<br>
- 🇫🇷/ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ╎ I know speak french and english.
+ 🇫🇷/:us: ╎ I know speak french and english.
 
 -------
 
