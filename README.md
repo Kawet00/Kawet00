@@ -18,7 +18,7 @@
 
 <h3> 📎&nbsp;Projects </h3>
 <p align="center">
-<a href="https://github.com/Elpistolero131/Elpistolero131"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Elpistolero131&repo=Elpistolero131&theme=chartreuse-dark"></a>
+<a href="https://github.com/Elpistolero131/UtilityBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Elpistolero131&repo=UtilityBot&theme=chartreuse-dark"></a>
   </p>
   
 <h3> ⚙️&nbsp;GitHub Analytics</h3>
