@@ -16,18 +16,14 @@
 
 ### 📎 &nbsp;Projects
 <p align="center">
-<a href="https://github.com/RileCraft/TicketsBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=TicketsBot&theme=chartreuse-dark"></a>
-<a href="https://github.com/RileCraft/Random-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=Random-API&theme=chartreuse-dark"></a>
-<a href="https://github.com/RileCraft/DiscordBot-Template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=DiscordBot-Template&theme=chartreuse-dark"></a>
-<a href="https://github.com/RileCraft/Discord-Starboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=Discord-Starboard&theme=chartreuse-dark"></a>
-<a href="https://github.com/RileCraft/ExpressAPI-Handler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RileCraft&repo=ExpressAPI-Handler&theme=chartreuse-dark"></a>
- </p>
+<a href="https://github.com/RileCraft/TicketsBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Elpistolero131&repo=UtilityBot&theme=chartreuse-dark"></a>
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/RileCraft">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RileCraft&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- ​​<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RileCraft&layout=compact&theme=radical">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elpistolero131&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ ​​<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Elpistolero131&layout=compact&theme=radical">
 </a>
 </p>
