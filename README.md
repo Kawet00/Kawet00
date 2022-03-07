@@ -4,7 +4,7 @@
 🤖╎ Currently making discord bots using `Discord.JS V13`.<br>
 👷 ╎  He / Him
 
-### 🛠 &nbsp;Technical / Programming Stack
+### 🛠 &nbsp;What I Can Do
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
