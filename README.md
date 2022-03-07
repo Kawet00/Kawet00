@@ -4,7 +4,7 @@
 
  📌 ╎ Im Elpistolero13 and i am currently a student who likes to program and do dumb things when bored or free.<br>
  🤖 ╎ Currently making discord bots using **Discord.JS V13**, it's <a href="https://www.utilitybot.ga/">Utility Bot</a> a French and English bot.<br>
- 👷 ╎ It's He / Him.<br>
+ 👨‍💻 ╎ It's  He/Him.<br>
  <img src="https://freesvg.org/img/frenchflagframed.png" height="17em"/> ╎ I'm living in France.<br>
  <img src="https://freesvg.org/img/frenchflagframed.png" height="17em"/>/<img src="https://freesvg.org/img/Flag_of_the_United_States.png" height="17em"/> ╎ I know speak french and english.
 
@@ -35,7 +35,7 @@
 
 <p align="center">
 <a href="https://github.com/Elpistolero131">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elpistolero131&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elpistolero131&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  ​​<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Elpistolero13&theme=radical"/>
 </a>
 </p>
