@@ -5,8 +5,6 @@
 🤖 ╎ Currently making discord bots using **Discord.JS V13**, it's [Utility Bot](https://www.utilitybot.ga/) a French and English bot.<br>
 👷 ╎ It's He / Him
 
-<br>
-
 <h3> 🛠 &nbsp;What I Can Do </h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -18,15 +16,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br>
-
 <h3> 📎&nbsp;Projects </h3>
 <p align="center">
 <a href="https://github.com/Elpistolero131/UtilityBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Elpistolero131&repo=UtilityBot&theme=chartreuse-dark"></a>
-</p>
-
-<br>
-
+  </p>
+  
 <h3> ⚙️&nbsp;GitHub Analytics</h3>
 
 <p align="center">
