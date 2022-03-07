@@ -7,6 +7,8 @@
  👷 ╎ It's He / Him.<br>
  🇫🇷 ╎ I'm living in France.<br>
  🇫🇷/:us: ╎ I know speak french and english.
+ 
+ <img src="https://freesvg.org/img/frenchflagframed.png" height="10em">
 
 -------
 
