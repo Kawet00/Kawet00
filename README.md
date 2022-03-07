@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elpistolero131" alt="Elpistolero13" /> </p>
 📌 ╎ Im Elpistolero13 and i am currently a student who likes to program and do dumb things when bored or free.<br>
-🤖╎ Currently making discord bots using **Discord.JS V13**, it's Utility Bot a French and English bot.<br>
+🤖╎ Currently making discord bots using **Discord.JS V13**, it's (Utility Bot)[https://www.utilitybot.ga] a French and English bot.<br>
 👷 ╎ It's He / Him
 
 ### 🛠 &nbsp;What I Can Do
@@ -24,7 +24,6 @@
 <p align="center">
 <a href="https://github.com/Elpistolero131">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elpistolero131&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Elpistolero131&layout=compact&theme=radical">
-  <embed src="https://wakatime.com/share/@6dea2851-3254-4bc9-a015-e42ad67d8de6/c1a651dd-33fe-428a-a2cd-e4471b3879de.svg"></embed>
+ !<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Elpistolero131&layout=compact&theme=radical">
 </a>
 </p>
