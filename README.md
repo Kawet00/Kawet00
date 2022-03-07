@@ -24,6 +24,6 @@
 <p align="center">
 <a href="https://github.com/RileCraft">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elpistolero131&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- ​​<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Elpistolero131&layout=compact&theme=radical">
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Elpistolero131">
 </a>
 </p>
