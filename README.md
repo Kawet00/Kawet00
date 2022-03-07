@@ -5,7 +5,8 @@
  📌 ╎ Im Elpistolero13 and i am currently a student who likes to program and do dumb things when bored or free.<br>
  🤖 ╎ Currently making discord bots using **Discord.JS V13**, it's <a href="https://www.utilitybot.ga/">Utility Bot</a> a French and English bot.<br>
  👷 ╎ It's He / Him.<br>
- :french_southern_territories: ╎ French
+ 🇫🇷 ╎ I'm living in France.<br>
+ 🇫🇷/ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 ╎ I know speak french and english.
 
 -------
 
