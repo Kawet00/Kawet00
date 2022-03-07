@@ -1,4 +1,4 @@
-#### 👋 Hello I'm Elpistolero13
+<h2 align="center">👋 Hello! I'm Athul.</h2>
 ### 👨🏻‍💻 &nbsp;About Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elpistolero131" alt="Elpistolero13" /> </p>
 📌 ╎ Im Elpistolero13 and i am currently a student who likes to program and do dumb things when bored or free.<br>
