@@ -36,6 +36,6 @@
 <p align="center">
 <a href="https://github.com/Elpistolero131">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elpistolero131&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- ​​<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Elpistolero13&theme=radical&layout=compact"/>
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Elpistolero13&theme=radical&layout=compact"/>
 </a>
 </p>
