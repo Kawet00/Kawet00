@@ -7,8 +7,9 @@
  👨‍💻 ╎ It's  He/Him.<br>
  <img src="https://freesvg.org/img/frenchflagframed.png" height="17em"/> ╎ I'm living in France.<br>
  <img src="https://freesvg.org/img/frenchflagframed.png" height="17em"/>/<img src="https://freesvg.org/img/Flag_of_the_United_States.png" height="17em"/> ╎ I know speak french and english.
- 
+ <a align="center">
  [![DiscordProfileBanner](https://discord.c99.nl/widget/theme-1/691644619758370846.png)](https://discord.com)
+ </a>
 
 -------
 
