@@ -26,14 +26,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <p align="center">
- <img src="https://readme-stats-ochre.vercel.app/api/top-langs/?username=Elpistolero131&theme=dark"/>
+ <img src="https://readme-stats-ochre.vercel.app/api/top-langs/?username=Elpistolero131&bg_color=00000000"/>
  </p>
 
 -------
 
 <h3> 📎&nbsp;Projects </h3>
 <p align="center">
-<a href="https://github.com/Elpistolero131/UtilityBot"><img src="https://readme-stats-ochre.vercel.app/api/pin/?username=Elpistolero131&repo=UtilityBot&theme=radical"></a>
+<a href="https://github.com/Elpistolero131/UtilityBot"><img src="https://readme-stats-ochre.vercel.app/api/pin/?username=Elpistolero131&repo=UtilityBot&bg_color=00000000"></a>
   </p>
 
 -------
@@ -41,6 +41,6 @@
 <h3> ⚙️&nbsp;Coding Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elpistolero131&show_icons=true&theme=dark&include_all_commits=true&count_private=true" href="https://github.com/Elpistolero131"/>
- <img src="https://readme-stats-ochre.vercel.app/api/wakatime?username=Elpistolero13&theme=radical&layout=compact" href="https://wakatime.com/@Elpistolero13"/>
+  <img src="https://readme-stats-ochre.vercel.app/api?username=Elpistolero131&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true" href="https://github.com/Elpistolero131"/>
+ <img src="https://readme-stats-ochre.vercel.app/api/wakatime?username=Elpistolero13&bg_color=00000000&layout=compact" href="https://wakatime.com/@Elpistolero13"/>
 </p>
