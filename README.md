@@ -7,7 +7,7 @@
  👨‍💻 ╎ It's  He/Him.<br>
  <img src="https://freesvg.org/img/frenchflagframed.png" height="17em"/> ╎ I'm living in France.<br>
  <img src="https://freesvg.org/img/frenchflagframed.png" height="17em"/>/<img src="https://freesvg.org/img/Flag_of_the_United_States.png" height="17em"/> ╎ I know speak french and english.<br>
- <p align="center"><br>
+ <p align="center">
     <a href="https://discord.com/users/691644619758370846">
       <img src="https://lanyard.cnrad.dev/api/691644619758370846"/>
        </a>
@@ -25,14 +25,15 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elpistolero131&theme=dark"/>
+<p align="center">
+ <img src="https://readme-stats-ochre.vercel.app/api/top-langs/?username=Elpistolero131&theme=dark"/>
+ </p>
 
 -------
 
 <h3> 📎&nbsp;Projects </h3>
 <p align="center">
-<a href="https://github.com/Elpistolero131/UtilityBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Elpistolero131&repo=UtilityBot&theme=radical"></a>
+<a href="https://github.com/Elpistolero131/UtilityBot"><img src="https://readme-stats-ochre.vercel.app/api/pin/?username=Elpistolero131&repo=UtilityBot&theme=radical"></a>
   </p>
 
 -------
@@ -41,5 +42,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Elpistolero131&show_icons=true&theme=dark&include_all_commits=true&count_private=true" href="https://github.com/Elpistolero131"/>
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Elpistolero13&theme=radical&layout=compact" href="https://wakatime.com/@Elpistolero13"/>
+ <img src="https://readme-stats-ochre.vercel.app/api/wakatime?username=Elpistolero13&theme=radical&layout=compact" href="https://wakatime.com/@Elpistolero13"/>
 </p>
