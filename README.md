@@ -6,7 +6,7 @@
  🤖 ╎ Currently making discord bots using **Discord.JS**, it's <a href="https://www.utilitybot.me/">Utility Bot</a> a French and English bot.<br>
  👨‍💻 ╎ It's  He/Him.<br>
  <img src="https://freesvg.org/img/frenchflagframed.png" height="17em"/> ╎ I'm living in France.<br>
- <img src="https://freesvg.org/img/frenchflagframed.png" height="17em"/>/<img src="https://freesvg.org/img/Flag_of_the_United_States.png" height="17em"/> ╎ I know speak french and english.<br>
+ <img src="https://freesvg.org/img/frenchflagframed.png" height="17em"/>/<img src="https://freesvg.org/img/Flag_of_the_United_States.png" height="17em"/> ╎ I speak french and english.<br>
  <p align="center">
     <a href="https://discord.com/users/691644619758370846">
       <img src="https://lanyard.cnrad.dev/api/691644619758370846"/>
