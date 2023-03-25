@@ -1,8 +1,8 @@
-<h2 align="center">👋 Hi, I'm Elpistolero13.</h2>
+<h2 align="center">👋 Hi, I'm Kawet.</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Elpistolero131" alt="Elpistolero13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kawet00" alt="Kawet" /> </p>
 
- 📌 ╎ Im <a href="https://byoss.me/Elpistolero13">Elpistolero13</a> and i am currently a student who likes to program and do dumb things when bored or free.<br>
+ 📌 ╎ Im <a href="https://byoss.me/Kawet">Kawet</a> and i am currently a student who likes to program and do dumb things when bored or free.<br>
  🤖 ╎ Currently making discord bots using **Discord.JS**, it's <a href="https://www.utilitybot.me/">Utility Bot</a> a French and English bot.<br>
  👨‍💻 ╎ It's  He/Him.<br>
  <img src="https://freesvg.org/img/frenchflagframed.png" height="17em"/> ╎ I'm living in France.<br>
@@ -26,14 +26,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <p align="center">
- <img src="https://readme-stats-ochre.vercel.app/api/top-langs/?username=Elpistolero131&bg_color=00000000"/>
+ <img src="https://readme-stats-ochre.vercel.app/api/top-langs/?username=Kawet00&bg_color=00000000"/>
  </p>
 
 -------
 
 <h3> 📎&nbsp;Projects </h3>
 <p align="center">
-<a href="https://github.com/Elpistolero131/UtilityBot"><img src="https://readme-stats-ochre.vercel.app/api/pin/?username=Elpistolero131&repo=UtilityBot&bg_color=00000000"></a>
+<a href="https://github.com/Kawet00/UtilityBot"><img src="https://readme-stats-ochre.vercel.app/api/pin/?username=Kawet00&repo=UtilityBot&bg_color=00000000"></a>
   </p>
 
 -------
@@ -41,6 +41,6 @@
 <h3> ⚙️&nbsp;Coding Analytics</h3>
 
 <p align="center">
-  <img src="https://readme-stats-ochre.vercel.app/api?username=Elpistolero131&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true" href="https://github.com/Elpistolero131"/>
- <img src="https://readme-stats-ochre.vercel.app/api/wakatime?username=Elpistolero13&bg_color=00000000&layout=compact" href="https://wakatime.com/@Elpistolero13"/>
+  <img src="https://readme-stats-ochre.vercel.app/api?username=Kawet00&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true" href="https://github.com/Kawet00"/>
+ <img src="https://readme-stats-ochre.vercel.app/api/wakatime?username=Kawet00&bg_color=00000000&layout=compact" href="https://wakatime.com/@Kawet00"/>
 </p>
