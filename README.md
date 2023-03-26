@@ -42,5 +42,5 @@
 
 <p align="center">
   <img src="https://readme-stats-ochre.vercel.app/api?username=Kawet00&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true" href="https://github.com/Kawet00"/>
- <img src="https://readme-stats-ochre.vercel.app/api/wakatime?username=Kawet00&bg_color=00000000&layout=compact" href="https://wakatime.com/@Kawet"/>
+ <img src="https://readme-stats-ochre.vercel.app/api/wakatime?username=Kawet&bg_color=00000000&layout=compact" href="https://wakatime.com/@Kawet"/>
 </p>
