@@ -2,7 +2,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kawet00" alt="Kawet" /> </p>
 
- 📌 ╎ Im <a href="https://byoss.me/Kawet">Kawet</a> and i am currently a student who likes to program and do dumb things when bored or free.<br>
+ 📌 ╎ Im <a href="https://kawet.is-a.dev">Kawet</a> and i am currently a student who likes to program and do dumb things when bored or free.<br>
  🤖 ╎ Currently making discord bots using **Discord.JS**, it's <a href="https://www.utilitybot.me/">Utility Bot</a> a French and English bot.<br>
  👨‍💻 ╎ It's  He/Him.<br>
  <img src="https://freesvg.org/img/frenchflagframed.png" height="17em"/> ╎ I'm living in France.<br>
