@@ -32,22 +32,23 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Webstorm](https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<p align="center">
- <img src="https://readme-stats-ochre.vercel.app/api/top-langs/?username=Kawet00&bg_color=00000000"/>
- </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawet00&bg_color=00000000)](https://github.com/Kawet00)
 
 -------
 
 <h3> 📎&nbsp;Projects </h3>
-<p align="center">
-<a href="https://github.com/Kawet00/UtilityBot"><img src="https://readme-stats-ochre.vercel.app/api/pin/?username=Kawet00&repo=UtilityBot&bg_color=00000000"></a>
-  </p>
+ <p align="center">
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kawet00&repo=UtilityBot&bg_color=00000000)](https://github.com/Kawet00/UtilityBot)
+
+</p>
 
 -------
   
 <h3> ⚙️&nbsp;Coding Analytics</h3>
 
 <p align="center">
-  <img src="https://readme-stats-ochre.vercel.app/api?username=Kawet00&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true" href="https://github.com/Kawet00"/>
- <img src="https://readme-stats-ochre.vercel.app/api/wakatime?username=Kawet&bg_color=00000000&layout=compact" href="https://wakatime.com/@Kawet"/>
+ <img src="https://readme-stats-six-vert.vercel.app/api?username=Kawet00" href="https://github.com/Kawet00"/>
+ <img src="https://readme-stats-six-vert.vercel.app/api/wakatime?username=Kawet&bg_color=00000000&layout=compact" href="https://wakatime.com/@Kawet"/>
 </p>
