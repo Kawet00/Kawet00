@@ -4,7 +4,7 @@
 ![VIEWS](https://visitcount.itsvg.in/api?id=Kawet00&icon=4&color=0)
 
  📌 ╎ Im <a href="https://kawet.is-a.dev">Kawet</a> and i am currently a student who likes to program and do dumb things when bored or free.<br>
- 🤖 ╎ Currently making discord bots using **Discord.JS**, it's <a href="https://www.utilitybot.me/">Utility Bot</a> a French and English bot.<br>
+ 🤔 ╎ Currently making a secret project.<br>
  👨‍💻 ╎ It's  He/Him.<br>
  <img src="https://freesvg.org/img/frenchflagframed.png" height="17em"/> ╎ I'm living in France.<br>
  <img src="https://freesvg.org/img/frenchflagframed.png" height="17em"/>/<img src="https://freesvg.org/img/Flag_of_the_United_States.png" height="17em"/> ╎ I speak french and english.<br>
