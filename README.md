@@ -52,3 +52,9 @@
  <img src="https://readme-stats-six-vert.vercel.app/api?username=Kawet00" href="https://github.com/Kawet00"/>
  <img src="https://readme-stats-six-vert.vercel.app/api/wakatime?username=Kawet&bg_color=00000000&layout=compact" href="https://wakatime.com/@Kawet"/>
 </p>
+
+-------
+
+<p align="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=00000000&layout=compact" href="https://github.com/Kawet00"/>
+</p>
