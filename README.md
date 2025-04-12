@@ -24,6 +24,7 @@
 
 ![Node.js](https://img.shields.io/badge/nodejs-%303030.svg?style=for-the-badge&logo=nodedotjs&logoColor=%44883E)
 ![Next](https://img.shields.io/badge/nextjs-ffffff.svg?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![LUA](https://img.shields.io/badge/lua-%303030.svg?style=for-the-badge&logo=lua&logoColor=%44883E)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
