@@ -28,7 +28,7 @@
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%3FA037.svg?style=for-the-badge&logo=mongodb&logoColor=3F3E42)
+![MongoDB](https://img.shields.io/badge/mongodb-%3FA037.svg?style=for-the-badge&logo=mongodb&logoColor=18067C)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Webstorm](https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
