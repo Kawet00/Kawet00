@@ -1,8 +1,6 @@
 <h2 align="center">👋 Hi, I'm Kawet.</h2>
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
-![VIEWS](https://visitcount.itsvg.in/api?id=Kawet00&icon=4&color=0)
-
  📌 ╎ Im <a href="https://guileby.me">Kawet</a> and i am currently a student who likes to program and do dumb things when bored or free.<br>
  🤔 ╎ Currently making a secret project.<br>
  👨‍💻 ╎ It's  He/Him.<br>
