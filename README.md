@@ -34,15 +34,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawet00&bg_color=00000000)](https://github.com/Kawet00)
 
 -------
-
-<h3> 📎&nbsp;Projects </h3>
- <p align="center">
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kawet00&repo=UtilityBot&bg_color=00000000)](https://github.com/Kawet00/UtilityBot)
-
-</p>
-
--------
   
 <h3> ⚙️&nbsp;Coding Analytics</h3>
 
