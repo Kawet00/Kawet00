@@ -30,9 +30,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Webstorm](https://img.shields.io/badge/webstorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawet00&bg_color=00000000)](https://github.com/Kawet00)
-</center>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawet00&bg_color=00000000)](https://github.com/Kawet00)
 
 -------
 
