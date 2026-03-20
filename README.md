@@ -46,7 +46,7 @@
   
 <h3> ⚙️&nbsp;Coding Analytics</h3>
 
-<p align=
+<p align="center">
  <img src="https://readme-stats-six-vert.vercel.app/api/wakatime?username=Kawet&bg_color=00000000&layout=compact" href="https://wakatime.com/@Kawet"/>
 </p>
 
