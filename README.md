@@ -3,7 +3,6 @@
 
  📌 ╎ Im <a href="https://guileby.me">Kawet</a> and i am currently a student who likes to program and do dumb things when bored or free.<br>
  🤔 ╎ Currently making a secret project.<br>
- 👨‍💻 ╎ It's  He/Him.<br>
  <img src="https://freesvg.org/img/frenchflagframed.png" height="17em"/> ╎ I'm living in France.<br>
  <img src="https://freesvg.org/img/frenchflagframed.png" height="17em"/>/<img src="https://freesvg.org/img/Flag_of_the_United_States.png" height="17em"/> ╎ I speak french and english.<br>
  <p align="center">
