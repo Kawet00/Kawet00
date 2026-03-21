@@ -38,7 +38,9 @@
 <h3> 📎&nbsp;Projects </h3>
  <p align="center">
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kawet00&repo=UtilityBot&bg_color=00000000)](https://github.com/Kawet00/UtilityBot)
+[![UtilityBot](https://github-readme-stats.vercel.app/api/pin/?username=Kawet00&repo=UtilityBot&bg_color=00000000)](https://github.com/Kawet00/UtilityBot)
+[![Cours](https://github-readme-stats.vercel.app/api/pin/?username=Kawet00&repo=Cours&bg_color=00000000)](https://github.com/Kawet00/Cours)
+[![Typing](https://github-readme-stats.vercel.app/api/pin/?username=Kawet00&repo=Typing&bg_color=00000000)](https://github.com/Kawet00/Typing)
 
 </p>
 
